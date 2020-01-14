@@ -1,0 +1,25 @@
+2020-01-14 21:57:44 INFO  Base:25 - Driver is initialised
+2020-01-14 21:57:55 INFO  Base:27 - URL is hit
+2020-01-14 21:58:00 INFO  Base:43 - Browser is Closed
+2020-01-14 21:58:09 INFO  Base:25 - Driver is initialised
+2020-01-14 21:58:21 INFO  Base:27 - URL is hit
+2020-01-14 21:58:21 INFO  Base:36 - FEATURED COURSES=FEATURED COURSES
+2020-01-14 21:58:21 INFO  Base:38 - Navigation Bar Displayed
+2020-01-14 21:58:33 INFO  Base:40 - Login Button Clicked
+2020-01-14 21:58:33 INFO  Base:47 - Browser Closed
+2020-01-14 21:58:42 INFO  Base:24 - Driver is initialised
+2020-01-14 21:58:54 INFO  Base:26 - URL is hit
+2020-01-14 21:59:05 INFO  Base:39 - UserName = Abhishek@email.com
+2020-01-14 21:59:05 INFO  Base:41 - Password = bhishek
+2020-01-14 21:59:09 INFO  Base:43 - Button is clicked
+2020-01-14 21:59:09 INFO  Base:59 - Browser Closed
+2020-01-14 21:59:09 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-01-14 21:59:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-01-14 21:59:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-01-14 21:59:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-01-14 21:59:09 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/abhis/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-01-14 21:59:10 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-01-14 21:59:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-01-14 21:59:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-01-14 21:59:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-01-14 21:59:10 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/abhis/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
